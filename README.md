@@ -9,7 +9,7 @@ at an educational institute with all necessary core functionalities.
 2. Student
 
 ###Welcome Page
-![database](https://github.com/gobackhuoxing/Dating-Web-CSYE6220/blob/master/picture/database.jpg)
+![database](Student_Course_Page.jpg)
 
 ###Functionalities
 • A Teacher can
@@ -20,7 +20,7 @@ at an educational institute with all necessary core functionalities.
 5. Post Appointment sessions
 
 ###Teacher’s Course Page
-![database](https://github.com/gobackhuoxing/Dating-Web-CSYE6220/blob/master/picture/database.jpg)
+![database](Student_Course_Page.jpg)
 
 • A Student can
 1. Track Attendance
@@ -30,7 +30,7 @@ at an educational institute with all necessary core functionalities.
 5. Book Appointment sessions
 
 ###Student’s Course Page
-![database](https://github.com/gobackhuoxing/Dating-Web-CSYE6220/blob/master/picture/database.jpg)
+![database](Student_Course_Page.jpg)
 
 ###Technologies Used
 • Front End: JSP
