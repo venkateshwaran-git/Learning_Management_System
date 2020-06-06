@@ -1,43 +1,46 @@
 # Learning_Management_System
 
+
 ## Summary of the Project
 Built a simplified version of Blackboard portal, for classroom management
 at an educational institute with all necessary core functionalities.
 
-### User Roles
+
+## User Roles
 1. Teacher
 2. Student
 
-### Welcome Page
+    #### Welcome Page
 ![database](Welcome_Page.jpg)
 
-### Functionalities
-• A Teacher can
+## Functionalities
+
+### • A Teacher can
 1. Record Attendance
 2. Make Announcements
 3. Publish Grades
 4. Publish Exam marks
 5. Post Appointment sessions
 
-### Teacher’s Course Page
+    #### Teacher’s Course Page
 ![database](Teacher_Course_Page.jpg)
 
-• A Student can
+### • A Student can
 1. Track Attendance
 2. View Announcements
 3. View Grades
 4. View Exam marks
 5. Book Appointment sessions
 
-### Student’s Course Page
+    #### Student’s Course Page
 ![database](Student_Course_Page.jpg)
 
-### Technologies Used
+## Technologies Used
 • Front End: JSP
 • Back End: Spring MVC and Hibernate
 • Database: MySQL
 
-### Important Concepts Used
+## Important Concepts Used
 • Annotations for mapping
 • Hibernate - Criteria Queries for data retrieval from database
 • Spring MVC form tags for reading input from JSP
