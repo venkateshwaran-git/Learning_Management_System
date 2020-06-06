@@ -10,7 +10,7 @@ at an educational institute with all necessary core functionalities.
 1. Teacher
 2. Student
 
-    #### Welcome Page
+#### Welcome Page Screenshot:
 ![database](Welcome_Page.jpg)
 
 ## Functionalities
@@ -22,7 +22,7 @@ at an educational institute with all necessary core functionalities.
 4. Publish Exam marks
 5. Post Appointment sessions
 
-    #### Teacher’s Course Page
+#### Teacher’s Course Page Screenshot:
 ![database](Teacher_Course_Page.jpg)
 
 ### • A Student can
@@ -32,18 +32,23 @@ at an educational institute with all necessary core functionalities.
 4. View Exam marks
 5. Book Appointment sessions
 
-    #### Student’s Course Page
+#### Student’s Course Page Screenshot:
 ![database](Student_Course_Page.jpg)
 
 ## Technologies Used
 • Front End: JSP
+
 • Back End: Spring MVC and Hibernate
+
 • Database: MySQL
 
 ## Important Concepts Used
 • Annotations for mapping
+
 • Hibernate - Criteria Queries for data retrieval from database
+
 • Spring MVC form tags for reading input from JSP
+
 • Hibernate Validator to validate input constrains (form validation)
 • Many to one and many to many mappings for establishing relationship
 between two tables as attributes in the model
